@@ -35,7 +35,8 @@
 }
 
 .nf-home__opening-image :is(.nf-picture, img) {
-    height: 100%;
+    height: auto;
+    max-height: 500px;
     object-fit: contain;
     width: 100%;
 }
@@ -147,7 +148,7 @@
     }
 
     .nf-home__opening-image {
-        min-height: 16rem;
+        min-height: auto;
     }
 
     .nf-home-module--argument .nf-home-module__items,
