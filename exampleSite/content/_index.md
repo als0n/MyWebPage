@@ -21,7 +21,6 @@ opening:
   headline: "What we make for ourselves"
   deck: "Notes on tools, rituals, records, and the beautiful trouble of doing it ourselves."
   image: "images/demo-opening.png"
-  image_options: "resize"
   image_alt: "A red hand-drawn wrench crossing a black grid of labels and arrows"
 
 featured_argument: "/essays/maintenance-is-a-design-material/"
