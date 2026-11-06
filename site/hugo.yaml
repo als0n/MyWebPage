@@ -22,36 +22,24 @@ taxonomies:
 
 menu:
   main:
-    - identifier: essays
-      name: Essays
-      url: /essays/
-      weight: 10
-      params:
-        secondary: arguments, questions, notes
     - identifier: archives
       name: Archives
       url: /archives/
       weight: 20
       params:
-        secondary: documents, images, histories
+        secondary: study logs
     - identifier: projects
       name: Projects
       url: /projects/
       weight: 30
       params:
-        secondary: systems, objects, experiments
-    - identifier: record
-      name: Record
-      url: /record/
-      weight: 40
-      params:
-        secondary: publications, talks, selected work
+        secondary: code, experiments
     - identifier: about
       name: About
       url: /about/
       weight: 50
       params:
-        secondary: biography, contact, policies
+        secondary: profile, contact
     - identifier: search
       name: Search
       url: /search/
@@ -64,7 +52,6 @@ params:
   disableThemeToggle: false
   disableSpecial1stPost: true
   mainSections:
-    - essays
     - questions
     - notes
     - archives
@@ -91,7 +78,7 @@ params:
     showPropositions: true
     enableImageProcessing: true
     validateContentModel: true
-    strictHomeSelections: true
+    strictHomeSelections: false
     wild:
       masthead: "Independent notes / practical disturbances"
       issue: "Issue 01 / keep the receipt"
