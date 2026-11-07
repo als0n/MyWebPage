@@ -1,6 +1,6 @@
 ---
-title: "What we make for ourselves"
-description: "Notes on tools, rituals, records, and the beautiful trouble of doing it ourselves."
+title: "My 2026 WorkBook"
+description: ""
 demo: true
 
 content:
@@ -18,10 +18,10 @@ home:
     - "formal_record"
 
 opening:
-  headline: "What we make for ourselves"
-  deck: "Notes on tools, rituals, records, and the beautiful trouble of doing it ourselves."
+  headline: "My 2026 WorkBook"
+  deck: ""
   image: "images/demo-opening.png"
-  image_alt: "A red hand-drawn wrench crossing a black grid of labels and arrows"
+  image_alt: ""
 
 featured_argument: "/essays/maintenance-is-a-design-material/"
 featured_archive: "/archives/tide-room-ledgers/"
@@ -46,11 +46,11 @@ formal_record: "/record/"
 visual:
   mode: "editorial"
   wild_title_lines:
-    - "What we"
-    - "make"
-    - "for"
-    - "ourselves"
-  wild_reference: "Ref. WMFO–01 / Built by hand"
+    - "This is"
+    - "my"
+    - "2026"
+    - "WorkBook"
+  wild_reference: "2026 Portfolio"
 ---
 
 What we inherit arrives with instructions.
