@@ -1,6 +1,5 @@
 ---
 title: "This is my 2026 Portfolio"
-description: "This portfolio is a culmination of my work for the Introductory Project course."
 demo: true
 
 content:
@@ -19,6 +18,7 @@ home:
 
 opening:
   headline: "Introductory Project Portfolio"
+  deck: "This portfolio is a culmination of my work for the Introductory Project course."
   image: "images/demo-opening.png"
   image_alt: "A red hand-drawn wrench crossing a black grid of labels and arrows"
 
@@ -52,3 +52,5 @@ visual:
 ---
 
 Bridging creative design with systematic problem-solving. 
+
+This portfolio is a culmination of my work for the Introductory Project course.
