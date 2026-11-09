@@ -1,5 +1,6 @@
 ---
 title: "This is my 2026 Portfolio"
+description: "This portfolio is a culmination of my work for the Introductory Project course."
 demo: true
 
 content:
