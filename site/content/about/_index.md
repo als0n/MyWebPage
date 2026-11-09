@@ -1,25 +1,36 @@
 ---
-title: "Why make anything?"
-description: "Because the ready-made version keeps asking for a password."
-demo: true
+title: "About Me"
+description: ""
+demo: false
 
 content:
   format: "page"
 
 visual:
   mode: "record"
+
 ---
 
-Some things arrive polished, sealed, and impossible to repair. Other things
-arrive with a loose handle and a person nearby who remembers why it was built
-that way.
+## Profile
 
-We are interested in the second kind.
+* **Name:** 손민후 (Son Minhu)
+* **Education:** 전북대학교 컴퓨터인공지능학과
+* **Interests:** UI/UX Design, 3D Computer Graphics, Technical Art, Web Development
+* **Skills & Tools:**
+  * **Design:** Figma
+  * **Development:** Python, JavaScript (WebGL), Git
 
-*What we make for ourselves* collects arguments, workshop notes, odd projects,
-questions without clean answers, and records of the work required after launch.
-It prefers a useful repair to a perfect replacement and a visible disagreement
-to a suspiciously tidy consensus.
+---
 
-The kettle is load-bearing. The minutes are annotated in three incompatible
-colours. Somebody has labelled the emergency biscuits “infrastructure”.
+## Experience
+
+* **Computer Graphics:** JavaScript/WebGL 기반 3D 로봇팔 계층 모델링 및 키프레임 애니메이션 구현
+* **AI & Algorithm:** 탐색 휴리스틱 기반 Connect6(육목) 토너먼트 AI 에이전트 개발
+
+---
+
+## Contact
+
+* **Email:** [sonminhu@gmail.com](mailto:sonminhu@gmail.com)
+* **GitHub:** [github.com/als0n](https://github.com/als0n)
+* **Portfolio:** [als0n.github.io/MyWebPage](https://als0n.github.io/MyWebPage/)
