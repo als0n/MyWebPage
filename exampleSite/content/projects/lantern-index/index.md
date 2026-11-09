@@ -8,7 +8,7 @@ tags:
   - projects
   - graphics
   - webgl
-demo: false
+demo: true
 
 content:
   format: "project"
@@ -22,7 +22,7 @@ editorial:
     - "bridging-math-and-graphics"
   series: null
   issue: null
-  featured: true
+  featured: false
 
 visual:
   mode: "editorial"
