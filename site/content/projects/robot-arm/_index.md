@@ -1,8 +1,8 @@
 ---
 title: "3D Robot Arm Animation"
 subtitle: "Hierarchical transformations and keyframe animation in JavaScript and WebGL."
-date: 2026-11-10
-lastmod: 2026-11-10
+date: 2026-10-31
+lastmod: 2026-10-31
 summary: "Implemented 3D robot arm hierarchical transformation and keyframe animation using JavaScript/WebGL."
 tags:
   - projects
@@ -22,7 +22,7 @@ editorial:
     - "bridging-math-and-graphics"
   series: null
   issue: null
-  featured: false
+  featured: true
 
 visual:
   mode: "editorial"
