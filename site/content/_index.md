@@ -1,6 +1,6 @@
 ---
 title: "This is my 2026 Portfolio"
-description: "This portfolio is a culmination of my work for the Introductory Project course."
+description: ""
 demo: true
 
 content:
@@ -52,4 +52,6 @@ visual:
     - "Portfolio"
 ---
 
-Bridging creative design with systematic problem-solving.
+Bridging creative design with systematic problem-solving. 
+
+This portfolio is a culmination of my work for the Introductory Project course.
