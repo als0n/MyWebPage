@@ -9,7 +9,6 @@ content:
 home:
   modules:
     - "opening"
-    - "current_work"
 
 opening:
   headline: "Introductory Project Portfolio"
