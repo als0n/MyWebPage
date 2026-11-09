@@ -53,5 +53,3 @@ visual:
 ---
 
 Bridging creative design with systematic problem-solving. 
-
-This portfolio is a culmination of my work for the Introductory Project course.
