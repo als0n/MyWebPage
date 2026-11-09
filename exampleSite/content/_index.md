@@ -9,13 +9,7 @@ content:
 home:
   modules:
     - "opening"
-    - "featured_argument"
-    - "visual_interruption"
-    - "questions"
-    - "featured_archive"
-    - "selected_writing"
     - "current_work"
-    - "formal_record"
 
 opening:
   headline: "Introductory Project Portfolio"
