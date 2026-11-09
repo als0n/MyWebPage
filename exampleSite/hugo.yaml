@@ -47,7 +47,6 @@ params:
   disableSpecial1stPost: true
   mainSections:
     - questions
-    - notes
     - projects
   ShowReadingTime: true
   ShowBreadCrumbs: true
