@@ -1,6 +1,6 @@
 ---
 title: "Projects"
-description: "Things built because the available version was almost, but not quite, useful."
+description: ""
 demo: true
 
 content:
