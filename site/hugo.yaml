@@ -22,12 +22,6 @@ taxonomies:
 
 menu:
   main:
-    - identifier: archives
-      name: Archives
-      url: /archives/
-      weight: 20
-      params:
-        secondary: study logs
     - identifier: projects
       name: Projects
       url: /projects/
@@ -54,7 +48,6 @@ params:
   mainSections:
     - questions
     - notes
-    - archives
     - projects
   ShowReadingTime: true
   ShowBreadCrumbs: true
