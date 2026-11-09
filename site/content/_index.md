@@ -1,6 +1,6 @@
 ---
-title: "What we make for ourselves"
-description: "Notes on tools, rituals, records, and the beautiful trouble of doing it ourselves."
+title: "This is my 2026 Portfolio"
+description: "This portfolio is a culmination of my work for the Introductory Project course."
 demo: true
 
 content:
@@ -18,8 +18,8 @@ home:
     - "formal_record"
 
 opening:
-  headline: "What we make for ourselves"
-  deck: "Notes on tools, rituals, records, and the beautiful trouble of doing it ourselves."
+  headline: "Introductory Project Portfolio"
+  deck: "This portfolio is a culmination of my work for the Introductory Project course."
   image: "images/demo-opening.png"
   image_alt: "A red hand-drawn wrench crossing a black grid of labels and arrows"
 
@@ -46,16 +46,12 @@ formal_record: "/record/"
 visual:
   mode: "editorial"
   wild_title_lines:
-    - "What we"
-    - "make"
-    - "for"
-    - "ourselves"
-  wild_reference: "Ref. WMFO–01 / Built by hand"
+    - "This is"
+    - "my"
+    - "2026"
+    - "Portfolio"
 ---
 
-What we inherit arrives with instructions.
+Bridging creative design with systematic problem-solving. 
 
-What we make for ourselves arrives with fingerprints, pencil marks, spare
-screws, and a name nobody agreed on. This is a publication about useful
-contraptions, stubborn questions, maintenance rituals, and records that refuse
-to stay tidy.
+This portfolio is a culmination of my work for the Introductory Project course.
