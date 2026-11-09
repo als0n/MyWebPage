@@ -1,24 +1,25 @@
 ---
-title: "The Lantern Index"
-subtitle: "A catalogue for comparing descriptions that refuse to agree."
-date: 2026-02-21
-lastmod: 2026-06-04
-summary: "Keep the original words. Show the disagreement. Label the drawer anyway."
+title: "3D Robot Arm Animation"
+subtitle: "Hierarchical transformations and keyframe animation in JavaScript and WebGL."
+date: 2026-11-10
+lastmod: 2026-11-10
+summary: "Implemented 3D robot arm hierarchical transformation and keyframe animation using JavaScript/WebGL."
 tags:
   - projects
-  - records
-demo: true
+  - graphics
+  - webgl
+demo: false
 
 content:
   format: "project"
   status: "active"
   original_date: null
-  media_type: "dataset"
-  collection: "Classification systems"
+  media_type: "code"
+  collection: "Computer Graphics"
 
 editorial:
   proposition:
-    - "example-tools-reveal-assumptions"
+    - "bridging-math-and-graphics"
   series: null
   issue: null
   featured: false
@@ -34,29 +35,21 @@ visual:
   invert_opening: false
 
 archive:
-  start_year: null
-  end_year: null
+  start_year: 2026
+  end_year: 2026
   locations: []
   people: []
 
 seo:
-  description: "Keep the original words, show the disagreement, and label the drawer anyway."
+  description: "Computer Graphics project implementing 3D robot arm hierarchical transformations and keyframe animations in JavaScript and WebGL."
   image: ""
   canonical: ""
 ---
 
-The Lantern Index catalogues descriptions that use different names for similar
-objects. It keeps the original wording beside each normalised term, because a
-tidy index should not require a spotless memory.
+This project explores the fundamentals of 3D computer graphics through the implementation of an articulated robotic arm. By managing matrix stacks and transformation hierarchies, the system translates mathematical joint relationships into smooth visual motion.
 
-## Intended outcome
+## Implementation Overview
 
-The project asks readers to compare classifications without hiding their
-sources. It treats disagreement as useful information.
-
-## Status
-
-Version 0.7 has labels, pencils, and a robust policy for admitting uncertainty.
-The drawer handles remain under review.
-
-[Open the longer project ledger](https://example.invalid/projects/lantern-index/).
+* **Hierarchical Modeling:** Constructed parent-child transformation relationships between robotic joints (base, shoulder, elbow, wrist, and gripper), ensuring that rotations and translations propagate correctly down the kinematic chain.
+* **Keyframe Animation:** Developed an animation loop that interpolates transformation parameters across predefined keyframes to generate fluid, continuous movement cycles.
+* **Rendering Pipeline:** Utilized WebGL and raw JavaScript to handle vertex buffers, projection/view matrices, and shader-based rendering from scratch.
