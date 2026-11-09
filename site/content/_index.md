@@ -19,7 +19,7 @@ home:
 
 opening:
   headline: "Introductory Project Portfolio"
-  deck: "This portfolio is a culmination of my work for the Introductory Project course."
+  deck: ""
   image: "images/demo-opening.png"
   image_alt: "A red hand-drawn wrench crossing a black grid of labels and arrows"
 
@@ -52,6 +52,4 @@ visual:
     - "Portfolio"
 ---
 
-Bridging creative design with systematic problem-solving. 
-
-This portfolio is a culmination of my work for the Introductory Project course.
+Bridging creative design with systematic problem-solving.
