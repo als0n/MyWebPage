@@ -8,7 +8,7 @@ tags:
   - projects
   - graphics
   - webgl
-demo: true
+demo: false
 
 content:
   format: "project"

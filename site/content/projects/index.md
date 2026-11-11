@@ -1,7 +1,7 @@
 ---
 title: "Projects"
 description: ""
-demo: true
+demo: false
 
 content:
   format: "section"
